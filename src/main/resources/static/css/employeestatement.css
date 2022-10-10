@@ -1,0 +1,15 @@
+tr {
+          background-color: #4086bd;
+          color: #000;
+          font-size: 12px;
+        }     
+	
+tr:hover {
+          background-color: #c5daeb;
+          color: #000;
+        }
+        td:hover{
+            background: #c5daeb;
+            
+            }
+        
